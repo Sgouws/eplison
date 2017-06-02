@@ -4,5 +4,5 @@
 </div>
 
 ## Specifics
-This is purely a proof of concept, it should not be used in production.
+This is purely a proof of concept, it should not be used in production before looking over the code base and making the necessary adjustments.
 
